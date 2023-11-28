@@ -1,6 +1,6 @@
 # VVSwiftUI
 
-此项目正对于swiftUI中的文本，图片，滚动，手势，StackView，ListView，NavigationView，GridView，Combine等知识点进行学习使用
+this is a study for swiftui. contain text,image.gesture,stackview,listview,navigationview,gridview,combine ..
 
 <img src="https://github.com/jiangshangwei/VVSwiftUI/assets/13128163/6b07530a-0a7c-4031-bd22-596c5c7221c2" width="100px">
 <img src="https://github.com/jiangshangwei/VVSwiftUI/assets/13128163/8f87b364-4e62-4587-bbc8-0a3992989095" width="100px">
