@@ -1,5 +1,6 @@
 # VVSwiftUI
-simple attempt of swiftui
+
+a sample swiftui attempt. 
 
 ![Simulator Screenshot - iPhone 14 Pro - 2023-11-28 at 13 14 35](https://github.com/jiangshangwei/VVSwiftUI/assets/13128163/6b07530a-0a7c-4031-bd22-596c5c7221c2)
 ![Simulator Screenshot - iPhone 14 Pro - 2023-11-28 at 13 16 13](https://github.com/jiangshangwei/VVSwiftUI/assets/13128163/8f87b364-4e62-4587-bbc8-0a3992989095)
